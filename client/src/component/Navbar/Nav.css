@@ -1,0 +1,19 @@
+.btn-outline-info {
+  color:rgb(58, 101, 161);
+  border-color: rgb(58, 101, 161);
+}
+.btn-outline-info:hover {
+  color: rgb(58, 101, 161);;
+  background-color:rgb(58, 101, 161);
+  border-color: rgb(58, 101, 161);
+}
+.btn-outline-info:not(:disabled):not(.disabled):active {
+  color:rgb(58, 101, 161);;
+  background-color: rgb(58, 101, 161);
+  border-color: rgb(58, 101, 161);
+ 
+}
+
+.Searchbox {
+  text-size-adjust: 1500px;
+}
